@@ -11480,7 +11480,7 @@ html {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: #5CB8E4;
 }
 .portfolio .portfolio-item .portfolio-item-caption:hover {
   opacity: 1;
@@ -11517,17 +11517,17 @@ html {
 }
 
 .custom-sand {
-  background-color: #C58940;
+  background-color: #FFFCC1;
 }
 
-.custom-peach {
-  background-color: #E5BA73;
+.custom-grey {
+  background-color: #F2F2F2;
 }
 
-.custom-beach {
-  background-color: #FAEAB1;
+.custom-juice {
+  background-color: #8758FF;
 }
 
-.custom-off-white {
-  background-color: #FAF8F1;
+.custom-sky {
+  background-color: #5CB8E4;
 }
